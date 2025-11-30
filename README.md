@@ -10,7 +10,7 @@ Uses **faa2fasta.sh** to merge operon sequences for reducing redundancy;
 **ratio.py:**
 Calculates % of unique genes within 50kb of defense systems
 
-**cd-hit-grep-line-50kb.py**
+**cd-hit-grep-line-50kb.py:**
 Clusters operons at 90% sequence identity
 
 
